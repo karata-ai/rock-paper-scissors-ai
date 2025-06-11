@@ -57,6 +57,12 @@ In `rock_paper_scissors_statistic.py`:
 
 ---
 
+## Visualization
+
+- include a win-rate progression chart (based on the Decision Tree AI) to show how performance evolves as the model gathers more data.
+
+---
+
 ## How to Run
 
 ```bash
