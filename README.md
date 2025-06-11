@@ -59,8 +59,10 @@ In `rock_paper_scissors_statistic.py`:
 
 ## How to Run
 
+```bash
 # Run the statistical version
-python rock_paper_scissors_statistic.py
+python rps_statistical.py
 
 # Run the decision tree version
-python rock_paper_scissors_decision_tree.py
+python rps_decision_tree.py
+
